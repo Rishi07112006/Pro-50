@@ -1,0 +1,21 @@
+.header{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.origami{
+
+    border-radius: 20px;
+    background-color: white;
+
+    width: 300px;
+    font-family: fantasy;
+
+}
